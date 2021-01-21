@@ -1,0 +1,1 @@
+Los koans se encuentran en http://rubykoans.com/
